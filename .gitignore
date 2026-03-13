@@ -1,0 +1,6 @@
+data/
+results/videos/
+results/anomalies/
+*.avi
+*.npy
+__pycache__/
